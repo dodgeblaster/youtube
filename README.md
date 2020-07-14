@@ -1,5 +1,6 @@
 # GaryJennings Youtube Projects
 
+- [Youtube Channel](https://www.youtube.com/channel/UCNUxl0ffgmbC_nK2rSmFTNg/)
 
 ## GraphQL
 - [GraphQL vs Rest](./graphql/graphql-vs-rest)
